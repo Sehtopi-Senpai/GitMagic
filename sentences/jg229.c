@@ -4,13 +4,13 @@
 // Function to include & executeA
 int jg229Sentence1()
 {
-  printf("Once upon a time\n");
+  printf("There was a loud knock at the door.\n");
   return 1;
 }
 
-int jg229Sentence_FINAL()
+int jg229Sentence2()
 {
-  printf("\nThe end. \n");
+  printf("It was in his pocket the whole time.\n");
   return 1;
 }
 
